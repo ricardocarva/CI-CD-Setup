@@ -4,7 +4,7 @@ CI-CD Practice for Introduction to Software Engineering
 
 Set your policy for the master branch. In GitHub, go to Settings > Branches > Add rule. Your settings should look like this:
 
-![master_branch_settings.png](master_branch_settings.png)
+![master branch settings image](master_branch_settings.png)
 
 ## Setup CicleCI
 
